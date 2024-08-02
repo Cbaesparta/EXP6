@@ -127,10 +127,10 @@ int main() {
         do {
             cout << "* ";
             ++j;
-        } while (j <= 5);
+        } while (j <= 8);
         cout << endl;
         ++i;
-    } while (i <= 5);
+    } while (i <= 8);
 
     return 0;
 }
@@ -175,4 +175,30 @@ int main()
 - **While Loops**: Best used when the number of iterations is not predetermined, with the loop executing as long as a condition remains `true`.
 - **Do-While Loops**: Ensures that the loop body executes at least once, useful for scenarios where the initial execution is necessary regardless of the condition.
 - **Nested Loops**: Provides powerful mechanisms for handling complex data structures, such as multi-dimensional arrays, by nesting one loop inside another.
+## OUTPUTS:
+
+### CODE1:
+![Screenshot 2024-08-02 120156](https://github.com/user-attachments/assets/f9eb005c-38a5-4d00-9f91-a69fbc172b62)
+### CODE 2:
+
+
+![Screenshot 2024-08-02 120220](https://github.com/user-attachments/assets/c723388d-3da9-49eb-94f9-77a6e93686cc)
+### CODE 3:
+
+![Screenshot 2024-08-02 120249](https://github.com/user-attachments/assets/3ac98377-fd61-4ad7-a1a6-ccdbf4debf70)
+### CODE 4:
+![Screenshot 2024-08-02 120544](https://github.com/user-attachments/assets/60d081bc-80f5-47b1-b4ba-3288d6689819)
+### CODE 5:
+![Screenshot 2024-08-02 120613](https://github.com/user-attachments/assets/fbd1056f-e5ea-4bd3-9dc7-2517f239e194)
+### CODE 6:
+
+![Screenshot 2024-08-02 120815](https://github.com/user-attachments/assets/1434e013-afc2-4caa-89ed-4f6f600d3df4)
+### CODE 7:
+![Screenshot 2024-08-02 120852](https://github.com/user-attachments/assets/5bc45b00-b916-4877-b164-ee4d287d9eef)
+
+
+
+
+
+
 
